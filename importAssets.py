@@ -79,6 +79,3 @@ def bulkImportExcel(fileLoc, job):
 
 
 bulkImportExcel(r"C:\Users\lukek\Desktop\Work\WorkBots\WorkBot11_5\Test.xlsx", "I2238079")
-
-# /html/body/form/div[3]/nav/div/div[2]/div/ul[1]/li[4]/a drop down
-#/html/body/form/div[3]/nav/div/div[2]/div/ul[1]/li[4]/ul/li[5]/a import
